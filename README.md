@@ -1,6 +1,6 @@
 # NoodleLand-Project
 
-bandoned Project. The project was about farming, building and creating things.
+Abandoned Project. The project was about farming, building and creating things.
 
 **This does not work in Unity due to some dependencies.**
 
